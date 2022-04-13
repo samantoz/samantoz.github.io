@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "1. Historical Sales and ACtive Inventory"
+excerpt: "This project is about building a binary classifier which gives a list of product IDs which need to be retained in the inventory or list of products that need to be removed using Exploratory Data Analysis."
 collection: portfolio
 ---
 
