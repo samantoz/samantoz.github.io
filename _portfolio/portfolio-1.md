@@ -1,5 +1,5 @@
 ---
-title: "1. Historical Sales and ACtive Inventory"
+title: "1. Historical Sales and Active Inventory"
 excerpt: "This project is about building a binary classifier which gives a list of product IDs which need to be retained in the inventory or list of products that need to be removed using Exploratory Data Analysis."
 collection: portfolio
 ---
