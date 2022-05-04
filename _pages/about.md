@@ -7,9 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<span style="color:green;font-weight:700;font-size:20px">
-    markdown color font styles
-</span>
+<style>
+red { color: red }
+yellow { color: yellow }
+</style>
+
+<red> red color markdown text</red>
+<yellow> red color markdown text</yellow>
 
 Experience
 ----------
