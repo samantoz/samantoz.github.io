@@ -8,18 +8,15 @@ redirect_from:
   - /about.html
 ---
 <style>
-sub-heading { color: red; text-align: left; font-family: verdana; font-size: 30px }
-text1 { color: red; text-align: left; font-family: verdana; font-size: 30px }
+sub-heading { color: blue; text-align: left; font-family: verdana; font-size: 30px }
+text1 { color: green; text-align: left; font-family: verdana; font-size: 20px }
 </style>
 
-<sub-heading> sub-heading color markdown text</sub-heading>
-<text1> text1 color markdown text</text1>
-
-Experience
+<sub-heading> ***Experience*** </sub-heading>
 ----------
 I have more than 25 years of IT services and project execution experience out of which around 15 years in the Data Warehousing and Business Intelligence area. I have predominantly worked in Banking, Insurance and Financial Services Sectors. I have experince working in Scaled Agile Framework involving Agile Release Trains.
 I have held leading roles in Project Management and Delivery; as such have led multiple engagements ranging from application development to Enterprise Architect. I was involved in project planning, effort estimation, defining road-maps, value definition to operationalization involving architectures, implementation and service delivery. I have managed a global delivery team of more than 20 developers and software engineers.
-
+<text1>
 > For a major US Fortune 300 Insurance Company, I am working as a Data engineer for the Data Science Team and have also worked in maintaining the Master Data Repository on prem as the Data Architect.
 
 > For a major Swiss Financial Service institution in Zurich I was involved in defining the BI architecture of one of the vital areas in the Organization.
@@ -33,7 +30,7 @@ I have held leading roles in Project Management and Delivery; as such have led m
 > I have also implemented challenging projects spanning across multiple geographical locations in onshore-offshore model. The average team size could range anywhere from 10 members to upwards of 25 members.
 
 > I have a broad overview of the new Cloud data and Analytics solutions involving Data Lake and DWH Appliances like Netezza/Teradata
-
+</text1>
 
 Technical Experience
 --------------------
