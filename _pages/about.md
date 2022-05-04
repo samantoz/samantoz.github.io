@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 <style>
-red { color: red }
-yellow { color: yellow }
+sub-heading { color: red; text-align: left; font-family: verdana; font-size: 30px }
+text1 { color: red; text-align: left; font-family: verdana; font-size: 30px }
 </style>
 
-<red> red color markdown text</red>
-<yellow> red color markdown text</yellow>
+<sub-heading> sub-heading color markdown text</sub-heading>
+<text1> text1 color markdown text</text1>
 
 Experience
 ----------
