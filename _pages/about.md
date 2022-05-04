@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Portfolio of a Data Architect/Cloud Data Engineer"
+title: <heading>"Portfolio of a Data Architect/Cloud Data Engineer"</heading>
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 <style>
-sub-heading { color: blue; text-align: left; font-family: verdana; font-size: 30px }
-text1 { color: green; font-family: verdana; font-size: 20px }
+heading { color: blue; text-align: center; font-family: verdana; font-size: 30px }
+sub-heading { color: black; text-align: left; font-family: verdana; font-size: 25px }
+text1 { color: green; text-align: left; font-family: verdana; font-size: 20px }
 </style>
 
 <sub-heading> Experience </sub-heading>
