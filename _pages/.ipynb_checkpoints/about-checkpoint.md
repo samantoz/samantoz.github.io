@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Portfolio of a Data Architect and Cloud Data Engineer"
+title: "Portfolio of a Data Architect/Cloud Data Engineer"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,34 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-Education
----------
-
-2022
-:   **MS Data Science**; Bellevue University (Omaha, NE)
-
-1996
-:   **MSc, Economics**; University of Calcutta (INDIA)
-
-    *Specialization: Development Economics*
-
 Experience
 ----------
-I have more than 25 years of IT services and project execution experience out of which around 15 years in the Data Warehousing and Business Intelligence area. I have predominantly worked in Banking, Insurance and Financial Services Sectors. 
+I have more than 25 years of IT services and project execution experience out of which around 15 years in the Data Warehousing and Business Intelligence area. I have predominantly worked in Banking, Insurance and Financial Services Sectors. I have experince working in Scaled Agile Framework involving Agile Release Trains.
 
 I have held leading roles in Project Management and Delivery; as such have led multiple engagements ranging from application development to Enterprise Architect. I was involved in project planning, effort estimation, defining road-maps, value definition to operationalization involving architectures, implementation and service delivery. I have managed a global delivery team of more than 20 developers and software engineers.
 
-> For a major Swiss Financial Service institution in Zurich Arindam was involved in defining the BI architecture of one of the vital areas in the Organization.
+> For a major US Fortune 300 Insurance Company, working in maintaining the Master Data repository. Also later on working in the Data Science team as Cloud Data Engineer.
 
-> For a major US Credit Card processing company  Arindam has shaped the ETL Architecture for the unification and simplification of the Comp calculation process of their Sales Reps.
+> For a major Swiss Financial Service institution in Zurich I was involved in defining the BI architecture of one of the vital areas in the Organization.
 
-> For a leading German Investment Bank, Arindam has created the reporting and BI platform and helped in defining the architecture for global Data Warehousing and Portfolio reporting.
+> For a major US Credit Card processing company  I have shaped the ETL Architecture for the unification and simplification of the Comp calculation process of their Sales Reps.
 
-> For one of the large domestic State Co operative Banks, in India, Arindam has implemented one of the Rural Agricultural loan system solutions in one of the leading profitable District Rural Banks. 
+> For a leading German Investment Bank, I have created the reporting and BI platform and helped in defining the architecture for global Data Warehousing and Portfolio reporting.
 
-> Arindam has also implemented challenging projects spanning across multiple geographical locations in onshore-offshore model. The average team size could range anywhere from 10 members to upwards of 40 members.
+> For one of the large domestic State Co operative Banks, in India, I have implemented one of the Rural Agricultural loan system solutions in one of the leading profitable District Rural Banks. 
 
-> Arindam has a broad overview of the new Analytics solution involving Big Data (Hadoop and Power exchange) and DWH Appliances like Netezza
+> I have also implemented challenging projects spanning across multiple geographical locations in onshore-offshore model. The average team size could range anywhere from 10 members to upwards of 25 members.
+
+> I have a broad overview of the new Cloud data and Analytics solutions involving Data Lake and DWH Appliances like Netezza/Teradata
 
 
 Technical Experience
@@ -61,3 +52,14 @@ Areas of Competency
      * Shaping and delivering large scale DWH Projects with Global Delivery Model
      * Enterprise Data Warehouse Solution Architecture including Data Vault and Dimensional Modeling
      * Requirements gathering and Effort estimation 
+
+Education
+---------
+
+2022
+:   **MS Data Science**; Bellevue University (Omaha, NE)
+
+1996
+:   **MSc, Economics**; University of Calcutta (INDIA)
+
+    *Specialization: Development Economics*
