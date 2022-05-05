@@ -1,7 +1,6 @@
 ---
 title: "Project 1: Historical Sales and Active Inventory"
 excerpt: "This project is about building a binary classifier which gives a list of product IDs which need to be retained in the inventory or list of products that need to be removed using Exploratory Data Analysis."
-paperurl: 'https://github.com/samantoz/BU_DSC530_TermProject'
 collection: portfolio
 ---
 This Exploratory Data Analysis that I did as part of my DSC530 project, I wanted to answer the following Statistical/Hypothetical Question:
@@ -17,3 +16,6 @@ The questions I wanted to get answered were:
 - What can we say about the marketing_type and its impact on sales?
 - What is the relevance to sales of an item being recently released?
 - What is the relevance to sales of an item being a new release?
+
+
+[This is a link to the source code] (https://github.com/samantoz/BU_DSC530_TermProject)
