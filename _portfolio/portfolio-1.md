@@ -18,4 +18,4 @@ The questions I wanted to get answered were:
 - What is the relevance to sales of an item being a new release?
 
 
-This is a link to the source code is [source code](https://github.com/samantoz/BU_DSC530_TermProject)
+This is a link to the source code is [**here**](https://github.com/samantoz/BU_DSC530_TermProject)
