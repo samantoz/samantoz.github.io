@@ -22,4 +22,4 @@ I am planning to use Logistic Regression algorithm using glm and random forest i
 ## How my approach addresses (fully or partially) the problem
 When the random forest is used for classification and is presented with a new sample, the final prediction is made by taking the majority of the predictions made by each individual decision tree in the forest. In the event, it is used for regression and it is presented with a new sample, the final prediction is made by taking the average of the predictions made by each individual decision tree in the forest.
 
-This is a link to the Readme file and the source code is [**here**](https://github.com/samantoz/dsc680-applied-datascience/blob/main/Project-1/Readme.md)
+This is a link to the Readme file and the source code is [**here**](https://github.com/samantoz/blob/main/bu-datascience/Statistical Analysis with R/2016_gss_survey.rmd)
