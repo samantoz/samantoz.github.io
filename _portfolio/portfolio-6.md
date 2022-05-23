@@ -10,4 +10,4 @@ collection: portfolio
 
 Enron Corporation was an American energy, commodities and services company based out of Houston, Texas. In 2001, they filed for bankruptcy. Before their Dec. 2, 2001 bankruptcy filing, Enron employed 20,000 staff. They were one of the world’s leading electricity, natural gas, communications and pulp and paper companies, with claimed revenues of nearly $101 billion in 2000. Later it was revealed that its reported financial condition was sustained substantially by an institutionalized, systematic, and creatively planned accounting fraud, known since as Enron scandal.
 
-This is a link to the Readme file and the source code is [**here**](https://github.com/samantoz/dsc680-applied-datascience/blob/main/Project-1/Readme.md)
+This is a link to the Readme file and the source code is [**here**](https://github.com/samantoz/dsc680-applied-datascience/blob/main/Project-1)
