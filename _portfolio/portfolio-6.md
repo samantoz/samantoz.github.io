@@ -1,5 +1,5 @@
 ---
-title: "Project 9: Contextual Text Analysis using ML/AI with Python"
+title: "Project 6: Contextual Text Analysis using ML/AI with Python"
 excerpt: "I am planning on using and building on top of the course project work done as part of another project. This is the Enron email text analysis. I am interested to classify the emails that was released for general public. My intention is to bring out the answers to the following key questions:
 a. What was the sentiments expressed in the emails?
 b. How much of pessimistic or optimistic mood do they show?
