@@ -11,49 +11,37 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.Sc. in Economics, University of Calcutta(INDIA), 1996
+* M.S in Data Science, Bellevue University, 2022 (expected)
+
+Technical Experience
+======
+* Modernizing Data Architecture
+* Enabling business partners to excel in delivering analytical solutions
+* Provides overall direction, guidance and definition of an architecture for a defined scope to effectively support the corporate business strategy and realize the target architecture
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- For a major US Fortune 300 Insurance Company, I am working as a Data engineer for the Data Science Team and have also worked in maintaining the Master Data Repository on prem as the Data Architect.
+- For a major Swiss Financial Service institution in Zurich I was involved in defining the BI architecture of one of the vital areas in the Organization.
+- For a major US Credit Card processing company I have shaped the ETL Architecture for the unification and simplification of the Comp calculation process of their Sales Reps.
+- For a leading German Investment Bank, I have created the reporting and BI platform and helped in defining the architecture for global Data Warehousing and Portfolio reporting.
+- For one of the large domestic State Co operative Banks, in India, I have implemented one of the Rural Agricultural loan system solutions in one of the leading profitable District Rural Banks.
+- I have also implemented challenging projects spanning across multiple geographical locations in onshore-offshore model. The average team size could range anywhere from 10 members to upwards of 25 members.
+- I have a broad overview of the new Cloud data and Analytics solutions involving Data Lake and DWH Appliances like Netezza/Teradata
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Cloud Technology
+* Managing AWS services through CDK
+* Strong understanding of scripting and APIs
+* Build/ Manage stable secure cloud Infrastructure
+* DevOps / Jenkins Pipeline
+* Github / Bitbucket
+* Experience in using IDEs like jupyterlab/ Visual Source Code/ Pycharm
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+On-Prem Technology:
+* ETL Architect and Solution expert in the DW&BI space using Informatica, Business Objects
+* Shaping and delivering large scale DWH Projects with Global Delivery Model
+* Enterprise Data Warehouse Solution Architecture including Data Vault and Dimensional Modeling
+* Requirements gathering and Effort estimation
