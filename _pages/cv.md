@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.Sc. in Economics, University of Calcutta(INDIA), 1996
-* M.S in Data Science, Bellevue University, 2022 (expected)
+* M.S in Data Science, Bellevue University,NE, 2022 
 
 Technical Experience
 ======
