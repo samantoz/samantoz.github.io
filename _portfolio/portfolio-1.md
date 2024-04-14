@@ -1,13 +1,12 @@
 ---
-title: "Client/Role: Fiserve (First Data Corporation)"
+title: "Client: Fiserve (First Data Corporation)"
 collection: portfolio
 ---
 
-Client/Role: Fiserve (First Data Corporation) Solutions Architect, Senior Program/Delivery Manager and Data Architect
-duration: 2012 - 2015
-industry: Card Processing Industry
-
-The solution was to implement Callidus-on-Demand, an industry leading Sales Performance Management solution. It helped the Relationship Managers and Sales Reps of the organization in creating innovative selling strategies for cross selling products and leveraging multi-channel data. The implemented solution was to integrate the different calculation processes currently being done in the different channels into a uniform, logical, and normalized way.As Enterprise Data Architect provided the solution that converted complex calculation engines to easily understood ETL transformation logic to be used in Informatica power center.
+- Role: Solutions Architect, Senior Program/Delivery Manager and Data Architect
+- Duration: 2012 - 2015
+- Industry: Card Processing Industry
+- The solution was to implement Callidus-on-Demand, an industry leading Sales Performance Management solution. It helped the Relationship Managers and Sales Reps of the organization in creating innovative selling strategies for cross selling products and leveraging multi-channel data. The implemented solution was to integrate the different calculation processes currently being done in the different channels into a uniform, logical, and normalized way.As Enterprise Data Architect provided the solution that converted complex calculation engines to easily understood ETL transformation logic to be used in Informatica power center.
 
 - Tech Landscape: IBM DB2 9.7, Informatica Power Center 9x, Erwin, Cognos 8, AIX 7 and Netezza
 - Selected accomplishments:
