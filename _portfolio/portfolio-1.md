@@ -1,16 +1,22 @@
 ---
-title: "Client: Fiserve (First Data Corporation)"
+title: "Client: Mutual Of Omaha"
 collection: portfolio
 ---
 
-- Role: Solutions Architect, Senior Program/Delivery Manager and Data Architect
-- Duration: 2012 - 2015
-- Industry: Card Processing Industry
-- The solution was to implement Callidus-on-Demand, an industry leading Sales Performance Management solution. It helped the Relationship Managers and Sales Reps of the organization in creating innovative selling strategies for cross selling products and leveraging multi-channel data. The implemented solution was to integrate the different calculation processes currently being done in the different channels into a uniform, logical, and normalized way.As Enterprise Data Architect provided the solution that converted complex calculation engines to easily understood ETL transformation logic to be used in Informatica power center.
-
-- Tech Landscape: IBM DB2 9.7, Informatica Power Center 9x, Erwin, Cognos 8, AIX 7 and Netezza
-- Selected accomplishments:
-  - Built the ETL framework to source the data from the various source systems including Netezza, flat files and other RDBMS.
-  - Designed the pre-processor layer architecture in transforming the sales and revenue data from different types of sources into the DB2 database and then Normalizing/Aggregating the data so as to meet the requirement of the staging layer tables of the Callidus engine.
-  - Built complex reprocessing logic for identifying the missing reference data and to report them to the business users and get them rectified at the source layer.
-  - Designed an elaborate audit framework over the ETL process that helped in monitoring the various runs of the loading process and also debugging any errors from the load.
+- **Role**: Technical Solutions Architect, Data Engineer, Cloud Engineer
+- **Duration**: 2015 -
+- **Employer**: Mutual Of Omaha
+- **Location**: Omaha, NE USA
+- **Industry**: Insurance Industry
+- As an ETL Architect, I specialized in leveraging Informatica and Teradata to orchestrate end-to-end data integration processes. With expertise in Informatica PowerCenter, I had designed and implemented scalable ETL solutions, ensuring seamless data extraction, transformation, and loading tasks. My proficiency was designing a highly scalable 3 tier ETL architecture on Teradata for the Master Data Management system within the IS division of Mutual Of Omaha. Designing the workflow using control-M for seamless execution with little human intervention for the process to execute.
+- As a Data Engineer I worked transitioning into AWS cloud engineering role as our IS division moved from on-prem to AWS. I worked on building robust data pipelines using AWS CDK and DEVOPS. I have also worked with LLMs and helped deploy various Models on AWS and worked with Mulesoft APIs.
+- **Tech Landscape**: Informatica, Teradata, DB2, Snowflake, AWS
+- **Selected accomplishments**:
+  - Implemented Master Data Management system on Teradata for the IS Division sourcing the data from Operational Data Store on DB2.
+  - Built robust fault tolerant system with automated Balance and control for data loading and job scheduling
+  - Implemented Data Governance framework for Insurance Industry on Teradata
+  - Query performance enhancement and extensibly using Push Down Optimization on Teradata from Informatica workflow
+  - Informatica version upgrade and password management using secured vault
+  - Worked on loading data from various structured and unstructured sources into AWS datalake
+  - Worked on deploying various data science models on AWS using CDK on python
+  - Worked on building core pipelines for implementing RAG based prompt engineering for LLMs and Gen AI solutions.

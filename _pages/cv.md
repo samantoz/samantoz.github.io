@@ -16,7 +16,8 @@ redirect_from:
 
 # Technical Experience
 
-- Modernizing Data Architecture
+- Experience working with LLMs and Gen AI on AWS
+- Modernizing Data Architecture from on Prem to Cloud
 - Enabling business partners to excel in delivering analytical solutions
 - Provides overall direction, guidance and definition of an architecture for a defined scope to effectively support the corporate business strategy and realize the target architecture
 

@@ -1,9 +1,19 @@
 ---
-title: "Project 4: Weather prediction based on zip code"
-excerpt: "This is a program written in python that interacts with the webservice in order to obtain weather data. It will prompt the user for their city or zip code and request weather forecast data from OpenWeatherMap. This program will display the weather information in a READABLE format to the user."
+title: "Client: Deutsche Bank AG."
 collection: portfolio
 ---
 
-This is a program written in python that interacts with the webservice in order to obtain weather data. It will prompt the user for their city or zip code and request weather forecast data from OpenWeatherMap. This program will display the weather information in a READABLE format to the user.
-
-This is a link to the Readme file and the source code is [**here**](https://github.com/samantoz/bu-datascience/blob/master/dsc_510/quickWeather.py)
+- **Role**: BI Lead / Solutions Architect / SAP BO Architect
+- **Duration**: 2004 - 2006
+- **Employer**: Wipro Technologies
+- **Location**: Bangalore, India
+- **Industry**: Major German Private Bank
+- The Asset Management group of Deutsche Bank manages the portfolios, securities, holdings and the related transactions of all their clients in NYSE, London FTSE and other global exchanges. The reports were distributed across the organization to different portfolio managers, RMs and group VPs. The source data was sourced in combination with the external data providers like Bloomberg, Reuters and also the various mainframe servers of the bank.
+- **Tech Landscape**: Oracle 8i/9i, Business Objects 5x/6x, Solaris, Informatica Power Center 6x
+- **Selected accomplishments**:
+  - Design/Development of BO Universe and reports
+  - Performing requirement analysis and preparing Report design documents.
+  - Distribution of work and validating time reporting
+  - Unit Testing and Error logging
+  - Analyzing and documenting the Migration activity related to Business Objects server from 5x to 6x.
+  - Installation of BO server on Solaris 8 and migrating universe and reports to new server.

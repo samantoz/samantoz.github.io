@@ -14,7 +14,12 @@ sub-heading { color: black; text-align: left; font-family: verdana; font-size: 2
 text1 { color: green; text-align: left; font-family: verdana; font-size: 20px }
 </style>
 
-## <sub-heading> About Me </sub-heading>
+## <sub-heading> About Myself </sub-heading>
+
+<text1> Relator, Developer, Adaptability, Responsibility, Harmony </text1>
+
+I am highly engaged when I am learning and exploring new information/technology. I like to keep time for myself to think about multiple ways to find solution. It gives me immense confidence to try different ways to execute project (or write code) or do something.
+I take time to get to know individuals on my team or social life and believe in trusting relationships that are high quality. Once I come to know someone I try to use their experience and strengths to work in a team. I am also quick at making aligned decisions on the suggestions made by right people on the right Technology/ Project.
 
 I am a data engineer designing and implementing robust data pipelines for data-driven insights and solutions ensuring seamless data flow, transformation, and storage. I am also proficient in database management, ETL processes, and data modeling. Worked to optimize performance and reliability for diverse applications. Skilled in Python, SQL, and other big data technologies.
 
