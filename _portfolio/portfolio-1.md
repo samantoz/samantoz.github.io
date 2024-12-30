@@ -3,7 +3,7 @@ title: "Client: Mutual Of Omaha"
 collection: portfolio
 ---
 
-- **Role**: Technical Solutions Architect, Data Engineer, Cloud Engineer
+- **Role**: Cloud Data Engineer
 - **Duration**: 2015 -
 - **Employer**: Mutual Of Omaha
 - **Location**: Omaha, NE USA

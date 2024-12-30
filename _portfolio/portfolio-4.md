@@ -6,7 +6,7 @@ collection: portfolio
 - **Role**: BI Lead / Solutions Architect / SAP BO Architect
 - **Duration**: 2004 - 2006
 - **Employer**: Wipro Technologies
-- **Location**: Bangalore, India
+- **Location**: Bengaluru, India
 - **Industry**: Major German Private Bank
 - The Asset Management group of Deutsche Bank manages the portfolios, securities, holdings and the related transactions of all their clients in NYSE, London FTSE and other global exchanges. The reports were distributed across the organization to different portfolio managers, RMs and group VPs. The source data was sourced in combination with the external data providers like Bloomberg, Reuters and also the various mainframe servers of the bank.
 - **Tech Landscape**: Oracle 8i/9i, Business Objects 5x/6x, Solaris, Informatica Power Center 6x
